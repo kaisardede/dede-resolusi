@@ -2,3 +2,5 @@ DEDE RESOLUSI
 -Lebih rajin
 -Berbakti
 -Memahami dasar-dasar github
+-Konsisten dalam mempelajari github
+-Mencari sumber selain dari situs github
