@@ -1,0 +1,8 @@
+RENCANA TAMBAHAN DEDE
+
+-Menerapkan materi Branch
+  * Membuat laporan
+  * Memperdalam materi
+-Mempelajari materi Fork
+-Melakukan percobaan Fork
+-Mendapat kesimpulan
